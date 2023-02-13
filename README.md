@@ -1,1 +1,1 @@
-# gH-project
+# gH-project - init the project
